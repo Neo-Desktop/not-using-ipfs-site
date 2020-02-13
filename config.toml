@@ -1,4 +1,4 @@
-baseurl = "http://karaokefiles.gq"
+baseurl = "https://karaokefiles.gq"
 languageCode = "en-us"
 title = "No IPFS Landing Page"
 theme = "onedly"
